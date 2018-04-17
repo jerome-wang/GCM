@@ -78,3 +78,12 @@
 * 在一个较大的修改提交中「隐藏」一些很小的代码改动。
 
 使用`git add -p`命令，可以帮助你较方便的将你的提交整理成一个个晓得的「原子提交」。
+
+# References
+
+* [Torvalds:Good git commit message](https://github.com/Subsurface-divelog/subsurface/commit/b6590150d68df528efd40c889ba6eea476b39873)
+* [Tim Pope. Apr 19, 2008. A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+* [`gitcommit.vim` By Tim Pope](https://github.com/tpope/vim-git/blob/master/syntax/gitcommit.vim)
+* [https://commit.style/](https://commit.style/)
+* [GitHub Help:Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/)
+* [Caleb Thompson.June 12, 2015. Useful Tips For A Better Commit Message](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
